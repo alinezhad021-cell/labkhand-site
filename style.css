@@ -1,0 +1,35 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Vazirmatn,Tahoma,sans-serif;background:#f4eedd;color:#2e2417}
+.page{max-width:760px;margin:0 auto;padding:44px 26px 30px}
+header{text-align:center;padding-bottom:18px;border-bottom:1px solid #cbbd9d}
+.brand{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:52px;direction:ltr;line-height:1.1}
+.brand-sub{color:#6f6250;margin-top:2px}
+section{padding:30px 0 8px}
+h2{font-size:34px;margin-bottom:16px}
+.section-note{color:#6f6250;margin:-10px 0 14px;font-size:15px}
+.item{display:flex;align-items:flex-end;gap:10px;margin-bottom:14px}
+.info{display:flex;flex-direction:column}
+.name{font-weight:800;font-size:19px;line-height:1.5;white-space:nowrap}
+.name.autumn::after{content:" 🍂";font-size:15px}
+.detail{color:#6f6250;font-size:13.5px;line-height:1.4}
+.dots{flex:1;border-bottom:2px dotted #bfae8d;margin-bottom:7px;min-width:30px}
+.price{font-weight:700;white-space:nowrap}
+.item.multi .info .detail{line-height:1.9}
+.dots-col,.price-col{display:flex;flex-direction:column}
+.dots-col{flex:1;gap:24px;padding-bottom:7px}
+.price-col{gap:2px}
+.price-col .price{line-height:1.9}
+.koluche{display:grid;grid-template-columns:1fr 1fr;gap:0;text-align:center}
+.kol-col{padding:0 10px}
+.kol-col:first-child{border-left:1px solid #cbbd9d}
+.kol-head{color:#6f6250;margin-bottom:10px}
+.kol-name{font-weight:800;font-size:19px;margin-top:12px}
+.kol-price{color:#3a2d1c}
+.notes{text-align:center;margin-top:28px;color:#3a2d1c}
+.notes p{margin-bottom:6px}
+.notes .dl{margin-top:14px;font-size:14px}
+.notes a{color:#8a5a18}
+footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.ltr{direction:ltr;font-family:Georgia,serif}
+.insta{color:#2e2417;text-decoration:none;font-weight:700}
+@media(max-width:520px){.brand{font-size:42px}h2{font-size:28px}.name{font-size:17px;white-space:normal}.price{font-size:14.5px}}
