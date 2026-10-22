@@ -19,9 +19,8 @@ h2{font-size:34px;margin-bottom:16px}
 .dots-col{flex:1;gap:24px;padding-bottom:7px}
 .price-col{gap:2px}
 .price-col .price{line-height:1.9}
-.koluche{display:grid;grid-template-columns:1fr 1fr;gap:0;text-align:center}
+.koluche{display:grid;grid-template-columns:minmax(240px,340px);justify-content:center;text-align:center}
 .kol-col{padding:0 10px}
-.kol-col:first-child{border-left:1px solid #cbbd9d}
 .kol-head{color:#6f6250;margin-bottom:10px}
 .kol-name{font-weight:800;font-size:19px;margin-top:12px}
 .kol-price{color:#3a2d1c}
