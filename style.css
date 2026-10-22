@@ -33,3 +33,10 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 .ltr{direction:ltr;font-family:Georgia,serif}
 .insta{color:#2e2417;text-decoration:none;font-weight:700}
 @media(max-width:520px){.logo{width:200px}h2{font-size:28px}.name{font-size:17px;white-space:normal}.price{font-size:14.5px}}
+
+.contact{margin-top:26px;border-top:1px solid #d8c391;padding-top:18px;text-align:center}
+.order{font-size:19px}
+.phone{color:#8a5a19;font-weight:700;text-decoration:none}
+.tg{display:inline-block;background:#229ed9;color:#fff;padding:7px 18px;border-radius:999px;text-decoration:none;font-size:16px;margin:6px 8px 0 0}
+.card{margin-top:14px;font-size:18px;color:#57482f}
+.ltr{direction:ltr;unicode-bidi:embed;letter-spacing:1px}
