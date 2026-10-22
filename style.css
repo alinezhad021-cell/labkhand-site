@@ -19,9 +19,6 @@ h2{font-size:34px;margin-bottom:16px}
 .dots-col{flex:1;gap:24px;padding-bottom:7px}
 .price-col{gap:2px}
 .price-col .price{line-height:1.9}
-.koluche{display:grid;grid-template-columns:minmax(240px,340px);justify-content:center;text-align:center}
-.kol-col{padding:0 10px}
-.kol-head{color:#6f6250;margin-bottom:10px}
 .kol-name{font-weight:800;font-size:19px;margin-top:12px}
 .kol-price{color:#3a2d1c}
 .notes{text-align:center;margin-top:28px;color:#3a2d1c}
@@ -36,6 +33,6 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 .contact{margin-top:26px;border-top:1px solid #d8c391;padding-top:18px;text-align:center}
 .order{font-size:19px}
 .phone{color:#8a5a19;font-weight:700;text-decoration:none}
-.tg{display:inline-block;background:#229ed9;color:#fff;padding:7px 18px;border-radius:999px;text-decoration:none;font-size:16px;margin:6px 8px 0 0}
+.tg{display:inline-block;background:#2e2417;color:#f4eedd;padding:7px 18px;border-radius:999px;text-decoration:none;font-size:16px;margin:6px 8px 0 0;border:1px solid #2e2417}
 .card{margin-top:14px;font-size:18px;color:#57482f}
 .ltr{direction:ltr;unicode-bidi:embed;letter-spacing:1px}
