@@ -29,7 +29,7 @@ h2{font-size:34px;margin-bottom:16px}
 .notes p{margin-bottom:6px}
 .notes .dl{margin-top:14px;font-size:14px}
 .notes a{color:#8a5a18}
-footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:8px;text-align:center}
 .ltr{direction:ltr;font-family:Georgia,serif}
 .insta{color:#2e2417;text-decoration:none;font-weight:700}
 @media(max-width:520px){.logo{width:200px}h2{font-size:28px}.name{font-size:17px;white-space:normal}.price{font-size:14.5px}}
