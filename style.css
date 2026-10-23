@@ -36,3 +36,15 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 .tg{display:inline-block;background:#2e2417;color:#f4eedd;padding:7px 18px;border-radius:999px;text-decoration:none;font-size:16px;margin:6px 8px 0 0;border:1px solid #2e2417}
 .card{margin-top:14px;font-size:18px;color:#57482f}
 .ltr{direction:ltr;unicode-bidi:embed;letter-spacing:1px}
+
+.view-btn{margin-top:6px;align-self:flex-start;font-family:inherit;font-size:12.5px;line-height:1.9;color:#8a5a19;border:1px solid #b39b63;background:transparent;padding:1px 12px;border-radius:999px;text-decoration:none;white-space:nowrap}
+.view-btn:hover,.view-btn:active{background:#2e2417;border-color:#2e2417;color:#f4eedd}
+.back-link{color:#8a5a19;text-decoration:none;font-size:15px;border-bottom:1px dotted #b39b63;padding-bottom:2px}
+.item-head{text-align:center;padding:30px 0 4px}
+.item-head h1{font-size:36px;line-height:1.4}
+.item-detail{color:#6f6250;margin-top:4px;font-size:16px}
+.item-price{font-size:22px;font-weight:800;margin-top:10px}
+.photo-ph{margin:24px 0 6px;aspect-ratio:4/3;border:1.5px dashed #b39b63;border-radius:16px;background:#efe6cd;display:flex;align-items:center;justify-content:center;color:#6f6250;font-size:16px;text-align:center;padding:16px}
+.photo-img{margin:24px 0 6px;width:100%;border-radius:16px;display:block}
+.ing h2{font-size:24px}
+.ing p{line-height:2.1;color:#3a2d1c}
