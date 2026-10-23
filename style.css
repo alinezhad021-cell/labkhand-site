@@ -9,16 +9,14 @@ section{padding:30px 0 8px}
 h2{font-size:34px;margin-bottom:16px}
 .section-note{color:#6f6250;margin:-10px 0 14px;font-size:15px}
 .item{display:flex;align-items:flex-end;gap:10px;margin-bottom:14px}
+.item.multi{display:block}
+.vrow{display:flex;align-items:flex-end;gap:10px;margin-top:9px;padding-right:16px}
+.vlabel{color:#6f6250;font-size:15px;white-space:nowrap;line-height:1.5}
 .info{display:flex;flex-direction:column}
 .name{font-weight:800;font-size:19px;line-height:1.5;white-space:nowrap}
 .detail{color:#6f6250;font-size:13.5px;line-height:1.4}
 .dots{flex:1;border-bottom:2px dotted #bfae8d;margin-bottom:7px;min-width:30px}
 .price{font-weight:700;white-space:nowrap}
-.item.multi .info .detail{line-height:1.9}
-.dots-col,.price-col{display:flex;flex-direction:column}
-.dots-col{flex:1;gap:24px;padding-bottom:7px}
-.price-col{gap:2px}
-.price-col .price{line-height:1.9}
 .kol-name{font-weight:800;font-size:19px;margin-top:12px}
 .kol-price{color:#3a2d1c}
 .notes{text-align:center;margin-top:28px;color:#3a2d1c}
