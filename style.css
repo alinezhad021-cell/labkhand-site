@@ -35,7 +35,7 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 .card{margin-top:14px;font-size:18px;color:#57482f}
 .ltr{direction:ltr;unicode-bidi:embed;letter-spacing:1px}
 
-.view-btn{margin-top:6px;align-self:flex-start;font-family:inherit;font-size:12.5px;line-height:1.9;color:#8a5a19;border:1px solid #b39b63;background:transparent;padding:1px 12px;border-radius:999px;text-decoration:none;white-space:nowrap}
+.view-btn{margin-top:6px;align-self:flex-start;font-family:inherit;font-size:12.5px;line-height:1.9;color:#8a5a19;border:1px solid #b39b63;background:transparent;padding:1px 12px;border-radius:999px;text-decoration:none}
 .view-btn:hover,.view-btn:active{background:#2e2417;border-color:#2e2417;color:#f4eedd}
 .back-link{color:#8a5a19;text-decoration:none;font-size:15px;border-bottom:1px dotted #b39b63;padding-bottom:2px}
 .item-head{text-align:center;padding:30px 0 4px}
@@ -49,3 +49,6 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 
 .top-banner{position:sticky;top:0;z-index:100;background:#2e2417;color:#f4eedd;text-align:center;font-weight:700;font-size:15.5px;line-height:1.9;padding:9px 16px;border-bottom:2px solid #b39b63;box-shadow:0 2px 10px rgba(46,36,23,.25)}
 @media(max-width:520px){.top-banner{font-size:14px;padding:8px 12px}}
+
+.ship-cost{margin:20px 0 0;text-align:center;font-size:17px;line-height:2;background:#efe6cd;border:1px solid #d8c391;border-radius:12px;padding:12px 14px}
+.ship-label{font-weight:800;color:#8a5a19}
