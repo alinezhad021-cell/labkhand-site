@@ -52,3 +52,9 @@ footer{margin-top:34px;padding-top:16px;border-top:1px solid #cbbd9d;display:fle
 
 .ship-cost{margin:20px 0 0;text-align:center;font-size:17px;line-height:2;background:#efe6cd;border:1px solid #d8c391;border-radius:12px;padding:12px 14px}
 .ship-label{font-weight:800;color:#8a5a19}
+
+.mode-switch{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:18px}
+.mode-btn{flex:1 1 200px;font-family:inherit;font-size:17px;font-weight:800;line-height:1.8;color:#8a5a19;border:2px solid #8a5a19;background:transparent;padding:10px 18px;border-radius:999px;cursor:pointer}
+.mode-btn.active{background:#2e2417;border-color:#2e2417;color:#f4eedd}
+.item-price + .item-price{margin-top:4px;font-size:19px}
+@media(max-width:520px){.mode-btn{font-size:15px;padding:9px 14px}}
